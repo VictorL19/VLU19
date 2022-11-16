@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @VLU19
-- 👀 I’m interested in software development
-- 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me lupasco.viktor10@gmail.com
 
 <!---
